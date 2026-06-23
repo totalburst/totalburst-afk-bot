@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "totalburst24alt",
+    "password": "alamin1234",
     "type": "offline"
   },
   "server": {
     "ip": "totalburst.aternos.me",
     "port": 56281,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
